@@ -1,1 +1,1 @@
-Hello! This folder contains my code for visualizing a probabilistic power spectral densities for the popo data. I included some data I pulled from IRIS since I used it to make the inventory file.
+Hello! This folder contains my code for visualizing a probabilistic power spectral densities for the popo data. I included some data I pulled from IRIS since I used it to make the inventory file. The inventory file for the popo data (starting in sept) is popoinv.xml.
