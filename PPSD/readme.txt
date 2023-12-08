@@ -1,1 +1,2 @@
 Hello! This folder contains my code for visualizing a probabilistic power spectral densities for the popo data. I included some data I pulled from IRIS since I used it to make the inventory file. The inventory file for the popo data (starting in sept) is popoinv.xml. I used this tutorial from the ObsPy website to make the code: https://docs.obspy.org/tutorial/code_snippets/probabilistic_power_spectral_density.html.
+Also, response data was pulled from this deployment: https://www.fdsn.org/networks/detail/8J_2018/
