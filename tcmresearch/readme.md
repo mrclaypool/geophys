@@ -1,0 +1,1 @@
+Hello! This code is modified from the [transverse coherence minimization](https://github.com/uafgeotools/tcm) python program that I used to analyze the Popocatepetl dataset from 2021. This is mainly for my own records so the code is pretty messy. I highly recommend looking at the original package and comparing with my changes if you'd like.
