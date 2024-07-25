@@ -1,1 +1,3 @@
 Hello! This code is modified from the [transverse coherence minimization](https://github.com/uafgeotools/tcm) python program that I used to analyze the Popocatepetl dataset from 2021 along with code to produce an accurate inventory for the array and the inventory I generated using `inventory.py`. This is mainly for my own records so the code is pretty messy. I highly recommend looking at the original package and comparing with my changes if you'd like. Also, I obtained all the inventories from the SAGE/IRIS [Nominal Response Library](https://ds.iris.edu/ds/nrl/) as our data did not have response attached. 
+
+You can actually see the results from this in the [SRL article!](https://doi.org/10.1785/0220240199) Go check it out! 
